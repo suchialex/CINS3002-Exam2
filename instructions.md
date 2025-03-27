@@ -48,7 +48,7 @@
 
 <details>
 <summary>
-  ✅ 0. (3.5 pts)
+  ✅ 0. Unpickle dictionary (3.5 pts)
 </summary>
 
 - Unpickle the dictionary in the file employees.txt
@@ -58,7 +58,7 @@
 
 <details>
 <summary>
- ✅ 1. (5 pts)
+ ✅ 1. Print managers (5 pts)
 </summary>
   
   - Print the name, department, salary of all the employees who have `manager` as one of their titles
@@ -71,7 +71,7 @@
 
 <details>
 <summary>
- ✅ 2. (5 pts)
+ ✅ 2. Add title (5 pts)
 </summary>
 
 - Ask user for a name
@@ -82,7 +82,7 @@
 
 <details>
 <summary>
- ✅ 3. (5 pts)
+ ✅ 3. Add certification (5 pts)
 </summary>
 
 - Ask user for a new employee ID and
@@ -113,7 +113,7 @@
 
 <details>
 <summary>
-  ✅ 4. (5 pts)
+  ✅ 4. Mayfield Inc Employees (5 pts)
 </summary>
 
   Print the name and salaries of all the employees who are working on the project Mayfield Inc. The project name comparison must be case-insensitive. Choose a nice format and alignment so they are displayed in a tabular fashion. If either name or salary not available, print -
@@ -122,7 +122,7 @@
 
 <details>
 <summary>
-  ✅ 5. (5 pts)
+  ✅ 5. Salary Raise (5 pts)
 </summary>
 
   For all the employees working on Spring Valley, give a 25% raise in their salary. If anyone doesn't have a salary, set their salary at 65000. Do a case-insensitive search on projects.
@@ -131,7 +131,7 @@
 
 <details>
 <summary>
-  ✅ 6. (5 pts)
+  ✅ 6. Add certification for IT employees (5 pts)
 </summary>
   
   - Add a new certifcation `OCPL1` taken on `March 10, 2024` for all employees in the IT department
@@ -143,7 +143,7 @@
 
 <details>
 <summary>
-  ✅ 7. (5 pts)
+  ✅ 7. Employees with one certification (5 pts)
 </summary>
   
   - Print the name, salary and department of all the employees with more than one certification
@@ -155,7 +155,7 @@
 
 <details>
 <summary>
-  ✅ 8. (5 pts)
+  ✅ 8. Add title for SCJP certified (5 pts)
 </summary>
   
   - For anyone who has a `SCJP` certification, add a title called `Java Developer`
@@ -166,7 +166,7 @@
 
 <details>
 <summary>
-  ✅ 9. (5 pts)
+  ✅ 9. Employees missing name (5 pts)
 </summary>
   
   - Check the dictionary for any employee who might be missing a name
@@ -183,7 +183,8 @@
 <summary>
   ✅ 0. (1.5 pts)
 </summary>
-  Pickle this dictionary and save it in a file (choose a name for your file)
+  
+  - Pickle this dictionary and save it in a file (choose a name for your file)
 </details>
 
 </details>
