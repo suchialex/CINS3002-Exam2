@@ -1,12 +1,25 @@
 
-## In main.py
+<details>
+  <summary>
+    Assignment Instructions
+  </summary>
 
-- Write functions
-  - dictionary_ops in part1.py using pass
-  - class_ops in part2.py using pass
-- Import them and call them in main.py
-- Download the [dictionary file](https://github.com/suchialex/CINS3002-Exam2/blob/main/employees.txt)
-- Download [pretty_print module](https://github.com/suchialex/pretty-print/blob/main/suchi_pretty_print.py)
+  - Download the [dictionary file](https://github.com/suchialex/CINS3002-Exam2/blob/main/employees.txt)
+  - Download [pretty_print module](https://github.com/suchialex/pretty-print/blob/main/suchi_pretty_print.py)
+</details>
+
+
+<details>
+  <summary>
+    ✅ Create Pycharm Project
+  </summary>
+
+  - Add files main.py, classes.py, part1.py and part2.py
+  - All dictionary operations will be in a function in part1.py
+  - Class will be defined in classes.py
+  - All class operations will be in a fucntion in part2.py
+</details>
+
 
 # Part 1:
 <details>
@@ -35,10 +48,11 @@
 
 <details>
 <summary>
-  ✅ 0. (2.5 pts)
+  ✅ 0. (3.5 pts)
 </summary>
 
-Unpickle the dictionary in the file employees.txt
+- Unpickle the dictionary in the file employees.txt
+- Must use exception handling
 </details>
    
 
@@ -167,7 +181,7 @@ Unpickle the dictionary in the file employees.txt
   
 <details>
 <summary>
-  ✅ 0. (2.5 pts)
+  ✅ 0. (1.5 pts)
 </summary>
   Pickle this dictionary and save it in a file (choose a name for your file)
 </details>
