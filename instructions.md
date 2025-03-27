@@ -5,7 +5,7 @@
   - dictionary_ops in part1.py using pass
   - class_ops in part2.py using pass
 - Import them and call them in main.py
-- Download the dictionary file
+- Download the [dictionary file](https://github.com/suchialex/CINS3002-Exam2/blob/main/employees.txt)
 
 # Part 1:
 <details>
