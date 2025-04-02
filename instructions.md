@@ -32,7 +32,7 @@
 
   - "name" -> `string`
   - "dept" -> `string`
-  - "salary" -> `float`
+  - "salary" -> `float` or `int`
   - "projects" -> `set`
   - "titles" -> `list`
   - "certifications" -> `dictionary`
