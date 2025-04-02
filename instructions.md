@@ -53,7 +53,7 @@
 </summary>
   
   - Print the name, department, salary of all the employees who have `manager` as one of their titles
-  - Do a case-insensitive search on title
+  - Perform a case-insensitive search on title
   - Must be in a nice tabular format
   - You may choose alignments and widths to fit the data
   - If name or department or salary are missing, print N/A
@@ -67,7 +67,7 @@
 
 - Ask user for a name
 - Add a new title `Developer` for any  employee with that name
-- Do a case-insensitive comparison of the name
+- Perform a case-insensitive comparison of the name
 </details>
 
 
@@ -116,7 +116,7 @@
   ✅ 5. Salary Raise (5 pts)
 </summary>
 
-  For all the employees working on Spring Valley, give a 25% raise in their salary. If anyone doesn't have a salary, set their salary at 65000. Do a case-insensitive search on projects.
+  For all the employees working on Spring Valley, give a 25% raise in their salary. If anyone doesn't have a salary, set their salary at 65000. Perform a case-insensitive search on projects.
 </details>
 
 
@@ -126,7 +126,7 @@
 </summary>
   
   - Add a new certifcation `OCPL1` taken on `March 10, 2024` for all employees in the IT department
-  - Do case-insensitive search on department
+  - Perform case-insensitive search on department
   - Make sure the date is in the right format when you insert it in the dictionary
 </details>
 
@@ -134,7 +134,7 @@
 
 <details>
 <summary>
-  ✅ 7. Employees with one certification (5 pts)
+  ✅ 7. Employees with multiple certifications (5 pts)
 </summary>
   
   - Print the name, salary and department of all the employees with more than one certification
@@ -149,8 +149,8 @@
   ✅ 8. Add title for SCJP certified (5 pts)
 </summary>
   
-  - For anyone who has a `SCJP` certification, add a title called `Java Developer`
-  - Do case-insensitive search on cert code
+  - For anyone who has `SCJP` as one of the certifications, add a title called `Java Developer`
+  - Perform case-insensitive search on cert code
 </details>
 
 
@@ -162,7 +162,7 @@
   
   - Check the dictionary for any employee who might be missing a name
   - and if missing, print their ID and
-  - ask the user to set a name.
+  - ask the user to provide a name
   - Validate this name so
     - it doesn't have any special characters except space
     - format it so that first letter of each word is uppercase.
