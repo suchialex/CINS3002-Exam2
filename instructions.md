@@ -91,7 +91,7 @@
   </summary>
 
   Perform validation on date 
-  - year must be between 1995 and 2024,
+  - year must be between 1995 and 2025,
   - month must be between 1 and 12,
   - date must be between
     - 1 and 30 for Apr, June, Sep, Nov
