@@ -231,6 +231,6 @@ attribute) (12 pts)
   5. Write print statements that print the following:  
   `Apple - Price: $1900.99 - New Price: $1875.99`
   (4 pts)  
-  💡 Hint: Use must use the appropriate dictionary element which has the object, print the product key and using the object print its price, then use the set method to change the price, and print the new price
+  💡 Hint: Use must use the object you created in Step 1, print the product key using the object (i.e. get the key from the dictionary), print its price using the accessor method, then use the mutator method to change the price, and print the new price
   7. Serialize this dictionary (pickle it) and save it in a file (choose any name for the file) - (2 pts)
 </details>
